@@ -1,0 +1,12 @@
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/assets/cleaning.json
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/assets/customerservice.json
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/assets/ontime.json
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/karma/OneDrive/Desktop/isme hai code/animation/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

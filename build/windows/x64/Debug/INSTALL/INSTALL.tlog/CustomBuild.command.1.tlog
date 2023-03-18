@@ -1,0 +1,10 @@
+^C:\USERS\KARMA\ONEDRIVE\DESKTOP\ISME HAI CODE\ANIMATION\BUILD\WINDOWS\CMAKEFILES\097F587DA2B39B696F5FC76A5213463F\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
